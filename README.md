@@ -8,6 +8,15 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+Youtube - Caleb Curry - "Android App Development in Java All-in-One Tutorial Series (4 HOURS!)" - For Android Studio Learning
+
+https://developer.android.com/reference/android/widget/AdapterView.OnItemClickListener
+https://stackoverflow.com/a/26840700
+https://stackoverflow.com/questions/4834750/how-to-get-the-selected-item-from-listview
+https://developer.android.com/develop/ui/views/layout/declaring-layout#HandlingUserSelections
+https://www.w3schools.com/java/java_arraylist.asp
+https://www.geeksforgeeks.org/android/how-to-enable-disable-button-in-android/
+https://stackoverflow.com/a/14522611
 
 ## Verbal Collaboration
 
