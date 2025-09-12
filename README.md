@@ -18,6 +18,9 @@ https://www.w3schools.com/java/java_arraylist.asp
 https://www.geeksforgeeks.org/android/how-to-enable-disable-button-in-android/
 https://stackoverflow.com/a/14522611
 
+Notes: Source Files of activity_main.xml, content.xml, MainActivity.java given instead of whole folder.
+- conflicting message from Discussion form vs feedback on what to upload.
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
